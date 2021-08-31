@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KevinDGnanih
 - 👀 I’m interested in art
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
